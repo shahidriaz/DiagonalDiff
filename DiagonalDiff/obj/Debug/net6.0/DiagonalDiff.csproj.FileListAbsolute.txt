@@ -1,0 +1,15 @@
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\bin\Debug\net6.0\DiagonalDiff.exe
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\bin\Debug\net6.0\DiagonalDiff.deps.json
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\bin\Debug\net6.0\DiagonalDiff.runtimeconfig.json
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\bin\Debug\net6.0\DiagonalDiff.dll
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\bin\Debug\net6.0\DiagonalDiff.pdb
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\DiagonalDiff.csproj.AssemblyReference.cache
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\DiagonalDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\DiagonalDiff.AssemblyInfoInputs.cache
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\DiagonalDiff.AssemblyInfo.cs
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\DiagonalDiff.csproj.CoreCompileInputs.cache
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\DiagonalDiff.dll
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\refint\DiagonalDiff.dll
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\DiagonalDiff.pdb
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\DiagonalDiff.genruntimeconfig.cache
+C:\Users\Shahid\source\Repos\DiagonalDiff\DiagonalDiff\obj\Debug\net6.0\ref\DiagonalDiff.dll
